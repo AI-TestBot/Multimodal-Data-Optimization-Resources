@@ -1,4 +1,4 @@
-# Multimodal-Data-Generation-Resources
+# Multimodal-Data-Optimization-Resources
 
 ## Review
 

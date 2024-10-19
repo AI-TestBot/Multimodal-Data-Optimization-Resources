@@ -31,6 +31,8 @@ ArXiv, 2024.
 
 ## Data Quality Evaluation
 
+### Training Datasets
+
 **A Survey on Data Selection for Language Models.**<br>
 *A Albalak, Y Elazar, et al.*<br>
 ArXiv, 2024.
@@ -53,6 +55,14 @@ arXiv:2307.08701, 2023.
 arxiv:2402.13583, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.13583)]
 [[Github](https://github.com/OpenLMLab/LongWanjuan)]
+
+### Testing Datasets
+
+**Benchmark Agreement Testing Done Right: A Guide for LLM Benchmark Evaluation.**<br>
+*Y Perlitz, A Gera, O Arviv, A Yehudai, E Bandel, E Shnarch, M Shmueli-Scheuer, L Choshen.*<br>
+arXiv:2407.13696, 2024.
+[[ArXiv](https://arxiv.org/pdf/2407.13696)]
+[[Github](https://github.com/IBM/benchbench)]
 
 ## Datasets Generation
 

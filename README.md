@@ -70,7 +70,7 @@ arXiv:2407.13696, 2024.
 
 **Self-alignment with instruction backtranslation.**<br>
 *X Li, P Yu, C Zhou, T Schick, L Zettlemoyer, O Levy, J Weston, M Lewis.*<br>
- arXiv:2308.06259, 2023.
+arXiv:2308.06259, 2023.
 [[Github](https://arxiv.org/pdf/2308.06259)]
 
 **Large language model as attributed training data generator: A tale of diversity and bias.**<br>
